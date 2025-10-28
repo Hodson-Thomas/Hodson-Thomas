@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 
-<a href="https://thomashodson.fr/" target="blank">
-<img align="center" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=548,h=544,fit=crop/d951lvz34BTy7oGG/thomas-A3Q2KeJyRqHare7R.jpeg" border-radius="100vh" />
+<a href="https://thomashodson.fr/" target="blank" style="display: block; text-align: center;">
+  <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=548,h=544,fit=crop/d951lvz34BTy7oGG/thomas-A3Q2KeJyRqHare7R.jpeg" 
+       style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
 </a>
 
 
