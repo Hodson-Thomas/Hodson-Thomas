@@ -12,7 +12,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/thomas-hodson" target="blank">
-<img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/master/socials/linkedin.png" title = "Twitter" alt="LinkedIn" height="30" />
+<img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/linkedin.png" title = "Twitter" alt="LinkedIn" height="30" />
 </a>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
