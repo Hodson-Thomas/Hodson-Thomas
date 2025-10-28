@@ -11,31 +11,31 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/thomas-hodson" target="blank" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/thomas-hodson" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/linkedin.png" title = "LinkedIn" alt="" height="30" />
 </a>
 
-<a href="https://stackoverflow.com/users/30309734/thomas-hodson" target="blank" style="text-decoration:none">
+<a href="https://stackoverflow.com/users/30309734/thomas-hodson" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/stack.png" title = "Stackoverflow" alt="" height="30" />
 </a>
 
-<a href="https://thomashodson.fr/" target="blank" style="text-decoration:none">
+<a href="https://thomashodson.fr/" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/web.png" title = "Website" alt="" height="30" />
 </a>
 
-<a href="https://github.com/Hodson-Thomas" target="blank" style="text-decoration:none">
+<a href="https://github.com/Hodson-Thomas" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/github.png" title = "Github" alt="" height="30" />
 </a>
 
-<a href="mailto:[contact@thomashodson.fr]" target="blank" style="text-decoration:none">
+<a href="mailto:[contact@thomashodson.fr]" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/gmail.png" title = "Gmail" alt="" height="30" />
 </a>
 
-<a href="https://discord.com/users/444180847231500288" target="blank" style="text-decoration:none">
+<a href="https://discord.com/users/444180847231500288" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/discord.png" title = "Discord" alt="" height="30" />
 </a>
 
-<a href="https://calendly.com/subscriptions-thomashodson/30min" target="blank" style="text-decoration:none">
+<a href="https://calendly.com/subscriptions-thomashodson/30min" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/calendar.png" title = "Calendly" alt="" height="30" />
 </a>
 
