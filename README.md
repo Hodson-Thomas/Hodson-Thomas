@@ -9,43 +9,39 @@
 ### My socials
 
 
-<p align="left">
-[![LinkedIn](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/linkedin.png)](https://www.linkedin.com/in/thomas-hodson)
-[![Stackoverflow](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/stack.png)](https://stackoverflow.com/users/30309734/thomas-hodson)
-[![Website](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/web.png)](https://thomashodson.fr/)
-[![GitHub](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/github.png)](https://github.com/Hodson-Thomas)
-[![Gmail](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/gmail.png)](mailto:[contact@thomashodson.fr])
-[![Discord](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/discord.png)](https://discord.com/users/444180847231500288)
-[![Calendly](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/calendar.png)](https://calendly.com/subscriptions-thomashodson/30min)
-</p>
+<style>
+    .icon__link {
+        text-decoration: none !important;
+    }
+</style>
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/thomas-hodson" target="_blank">
+<a href="https://www.linkedin.com/in/thomas-hodson" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/linkedin.png" title = "LinkedIn" alt="" height="30" />
 </a>
 
-<a href="https://stackoverflow.com/users/30309734/thomas-hodson" target="_blank">
+<a href="https://stackoverflow.com/users/30309734/thomas-hodson" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/stack.png" title = "Stackoverflow" alt="" height="30" />
 </a>
 
-<a href="https://thomashodson.fr/" target="_blank">
+<a href="https://thomashodson.fr/" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/web.png" title = "Website" alt="" height="30" />
 </a>
 
-<a href="https://github.com/Hodson-Thomas" target="_blank">
+<a href="https://github.com/Hodson-Thomas" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/github.png" title = "Github" alt="" height="30" />
 </a>
 
-<a href="mailto:[contact@thomashodson.fr]" target="_blank">
+<a href="mailto:[contact@thomashodson.fr]" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/gmail.png" title = "Gmail" alt="" height="30" />
 </a>
 
-<a href="https://discord.com/users/444180847231500288" target="_blank">
+<a href="https://discord.com/users/444180847231500288" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/discord.png" title = "Discord" alt="" height="30" />
 </a>
 
-<a href="https://calendly.com/subscriptions-thomashodson/30min" target="_blank">
+<a href="https://calendly.com/subscriptions-thomashodson/30min" target="_blank" class="icon__link">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/calendar.png" title = "Calendly" alt="" height="30" />
 </a>
 
