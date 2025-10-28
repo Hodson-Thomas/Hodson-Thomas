@@ -9,7 +9,7 @@
 ### My socials
 
 
-<nav styles="display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 1rem;">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/thomas-hodson" target="blank">
 <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
@@ -57,7 +57,7 @@
 </svg>
 </a>
 
-</nav>
+</p>
 
 
 <!--
