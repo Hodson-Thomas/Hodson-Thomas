@@ -10,6 +10,16 @@
 
 
 <p align="left">
+[![LinkedIn](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/linkedin.png)](https://www.linkedin.com/in/thomas-hodson)
+[![Stackoverflow](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/stack.png)](https://stackoverflow.com/users/30309734/thomas-hodson)
+[![Website](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/web.png)](https://thomashodson.fr/)
+[![GitHub](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/github.png)](https://github.com/Hodson-Thomas)
+[![Gmail](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/gmail.png)](mailto:[contact@thomashodson.fr])
+[![Discord](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/discord.png)](https://discord.com/users/444180847231500288)
+[![Calendly](https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/calendar.png)](https://calendly.com/subscriptions-thomashodson/30min)
+</p>
+
+<p align="left">
 
 <a href="https://www.linkedin.com/in/thomas-hodson" target="_blank">
 <img align="center" src="https://github.com/Hodson-Thomas/Hodson-Thomas/blob/main/Socials/linkedin.png" title = "LinkedIn" alt="" height="30" />
